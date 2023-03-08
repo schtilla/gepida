@@ -1,0 +1,22 @@
+footer{
+    background-color: beige;
+    position: absolute;
+    text-align: center;
+    width: 170px;
+    padding: 5px;
+    top: 5%;
+    right: 0%;
+    rotate: 45deg;
+}
+
+footer:hover{
+    background-color: beige;
+    position: absolute;
+    text-align: center;
+    width: 170px;
+    padding: 5px;
+    top: 0%;
+    right: 0%;
+    rotate: 0deg;
+    transition: top 2s, rotate 2s;
+}
