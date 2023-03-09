@@ -3,7 +3,7 @@
 // Copyright: 2023, Schermann Tilla Réka
 // Group: Szoft I-2-E
 // Date: 2023.03.08
-// Github: 
+// Github: https://github.com/schtilla/
 // Licenc: GNU GPL
 
 const table = document.querySelector("#tablazat");
